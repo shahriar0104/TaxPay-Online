@@ -1,0 +1,3 @@
+admin :   nid_no-> 123              pass-> dfg
+
+user :    nid_no->1970567890987     pass-> asd
